@@ -3,3 +3,4 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/
+# to tell the pipeline where to store the repo files on the ec2 instance
